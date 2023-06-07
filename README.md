@@ -3,11 +3,11 @@
 > Status: ready to homolog ⚠️
 
 # Estrutura de pastas:
-+ Foi desenvolvida uma estrutura por partes, onde cada parte do sistema virou um serviço com a program cs na pasta raiz orquestrando tudo.
-+ A pasta Application contém todos services, contracts (interfaces), Model e Utils da automação.
-+ A pasta Services contém todas as ações que a automação deve executar
-+ A pasta Model contém a classe as varíaveis que serão  manipulados pela automação
-+ A pasta Utils contém as funções auxiliares para automação como gerar csv, tratativa de elementos.
++ Foi desenvolvida uma estrutura por partes, onde cada parte do sistema virou um serviço com a program.cs na pasta raiz orquestrando tudo.
++ A pasta Application contém services, contracts (interfaces), Model e Utils assim como suas respectivas lógicas.
++ A pasta Services contém todas as ações que a automação deve executar.
++ A pasta Model contém a classe com as varíaveis que serão  manipulados pela automação
++ A pasta Utils contém as funções auxiliares  como gerar csv, tratativa de elementos etc.
 
 # Como executar:
 
